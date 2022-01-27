@@ -1,0 +1,6 @@
+ dependencies :-
+    1 npm inastall react-router-dom
+    2 npm inastall chartjs
+    3 tailwindcss
+
+packge manager: npm
